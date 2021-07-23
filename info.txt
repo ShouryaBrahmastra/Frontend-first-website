@@ -1,0 +1,11 @@
+index.html is the home page 
+index.html -> static/style.css
+
+about.html is the about us page
+about.html -> static/style1.css
+
+contactus.html is inside about us page
+contactus.html -> static/style2.css
+
+hobbies1.html is the hobbies page
+hobbies1.html -> static/style5.css
